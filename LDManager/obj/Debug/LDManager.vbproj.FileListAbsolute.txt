@@ -1,0 +1,1 @@
+d:\visual studio 2013\Projects\LDManager\LDManager\bin\Debug\LDManager.exe.config
